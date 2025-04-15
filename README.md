@@ -8,6 +8,3 @@ A React-based web application built with Vite, aiming to replicate the functiona
 - 🎨 Styled using CSS for a clean and responsive UI
 - 🔌 Modular architecture for easy scalability and maintenance
 
-## 📁 Project Structure
-
-Gemini-Clone/ ├── public/ # Static assets ├── src/ # Source code │ ├── components/ # Reusable React components │ ├── App.jsx # Main application component │ └── main.jsx # Entry point ├── index.html # HTML template ├── package.json # Project metadata and dependencies ├── vite.config.js # Vite configuration └── README.md # Project documentation
